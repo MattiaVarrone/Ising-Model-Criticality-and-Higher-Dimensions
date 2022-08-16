@@ -1,7 +1,7 @@
 # Ising-Model-Criticality-and-Higher-Dimensions
 
 ### Evolution of 2D Spin Lattices under the Checkerboard Algorithm
-![eq_plots](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/equ_plots.png)
+![eq_plots](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/equ_plots%20(R).png)
 
 ### Magnetisation and Specific Heat for different lattice sizes N
 ![pattern2D](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/M%20vs%20T%20(R).png)
