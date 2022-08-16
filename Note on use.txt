@@ -1,0 +1,18 @@
+COMPUTATIONAL ANALYSIS OF THE ISING MODEL
+
+important folders:
+    data: contains .npz files holding arrays with useful stats used by the jupyter notebooks
+    pics: all plots labeled and at high resolution
+
+.py scripts:
+    Ising: defines Lattice class
+    spec_heat: defines Onsager's specific heat function
+
+Notebooks:
+    Ising_note: contains miscellaneous plots
+    EquPlots: equilibrium plots
+    critical_exp: critical exponents for 2d ising
+    Finite size scalings: plots for different lattice sizes and fit of coefficient nu and T_{crit}
+    Hysteresis: hysteresis plots
+    higher_dims: nice plots in dimensions 3, 4, 5
+    3D2, 4D2, 5D2: critical exponents in dimensions 3, 4, 5
