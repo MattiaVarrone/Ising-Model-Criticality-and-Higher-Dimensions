@@ -12,6 +12,9 @@ Hyper-cubic lattices in any number of dimensions can be used.
 ### Magnetisation and Specific Heat for different lattice sizes N
 ![pattern2D](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/M%20vs%20T%20(R).png)
 
+### Finite size scaling measurement of magnetisation provides a fit for the critical temperature
+![finite_size](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/finite_size%20(R).png)
+
 ### Hysteresis pattern for different temperatures
 ![hysteresis](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/Hysteresis%20(R).png)
 
