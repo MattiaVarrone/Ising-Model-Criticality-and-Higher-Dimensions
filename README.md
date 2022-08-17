@@ -1,5 +1,11 @@
 # Ising-Model-Criticality-and-Higher-Dimensions
 
+This code simulates the Ising Model for a Ferromagnet, by generating an ensemble of lattice configurations through a vectorised version
+of the Metropolis algorithm (Checkerboard algorithm).
+Hyper-cubic lattices in any number of dimensions can be used.
+
+## Result examples
+
 ### Evolution of 2D Spin Lattices under the Checkerboard Algorithm
 ![eq_plots](https://github.com/MattiaVarrone/Ising-Model-Criticality-and-Higher-Dimensions/blob/main/pics/equ_plots%20(R).png)
 
